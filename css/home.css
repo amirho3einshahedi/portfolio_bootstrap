@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "TTNorms";
+    src: url("/web/fonts/TTNorms-Regular.otf") format("openType");
+}
+
+@font-face {
+    font-family: "TTNorms Medium";
+    src: url("/web/fonts/TTNorms-Medium.otf") format("openType");
+}
+
+@font-face {
+    font-family: "TTNorms Light";
+    src: url("/web/fonts/TTNorms-Light.otf") format("openType");
+}
+
+@font-face {
+    font-family: "Times Roman Italic";
+    src: url("/web/fonts/Times-new-roman-italic.ttf") format("truetype");
+}
+
+.comment {
+    font-family: "Times Roman Italic";
+    min-height: 250px;
+    min-width: 250px;
+}
